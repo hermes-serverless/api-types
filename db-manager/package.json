@@ -1,6 +1,6 @@
 {
   "name": "@hermes-serverless/api-types-db-manager",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "scripts": {
     "test": "jest --logHeapUsage",
     "build": "rm -rf build && yarn tsc",
